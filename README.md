@@ -66,6 +66,8 @@ I write about simple systems for B2B sales, CRM cleanup, and practical AI at:
 **[tonybeal.net/thinking.html](https://tonybeal.net/thinking.html)**
 
 Recent articles:
+- [AI Will Not Fix Your Plant's Labor Problem](https://tonybeal.net/thinking.html)
+- [If You Want Real AI Leverage, Stop Learning and Start Building](https://tonybeal.net/thinking.html)
 - [How to Build a CRM That Your Sales Team Actually Uses](https://tonybeal.net/thinking.html)
 - [Why Revenue Operations Is the Highest-ROI Hire for B2B Companies in 2026](https://tonybeal.net/thinking.html)
 - [The 5 AI Prompts I Use Every Week to Run B2B Outbound at Scale](https://tonybeal.net/thinking.html)
@@ -77,6 +79,7 @@ Recent articles:
 If you're hiring for Revenue Operations, Sales Operations, or AI-assisted workflow systems — I'd love to connect.
 
 - 🌐 **[tonybeal.net](https://tonybeal.net)** — full background + work samples
+- 📁 **[Case Studies](https://tonybeal.net/work.html)** — real projects, real numbers
 - 💼 **[Hire me](https://tonybeal.net/hire.html)** — role fit, availability, and how to engage
 - 📅 **[Book a 30-min call](https://calendly.com/tonybeal40/30min)**
 - 📧 **tonybeal40@gmail.com**
