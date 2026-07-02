@@ -1,91 +1,52 @@
-<!-- GitHub Profile README — Tony Beal -->
-
-<div align="center">
-
 # Tony Beal
-### Revenue Operations · Sales Operations · AI Sales Systems
 
-**Available for hire — Full-time & Contract**
+St. Louis B2B systems consultant focused on CRM cleanup, AI-assisted workflows, lead follow-up, revenue operations, and practical knowledge systems.
 
-[![Website](https://img.shields.io/badge/🌐_tonybeal.net-0F172A?style=for-the-badge&logoColor=60A5FA)](https://tonybeal.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tony--beal40-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tony-beal40/)
-[![Email](https://img.shields.io/badge/Email-tonybeal40@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonybeal40@gmail.com)
+[tonybeal.net](https://tonybeal.net) | [LinkedIn](https://www.linkedin.com/in/tony-beal40/) | [Book a call](https://calendly.com/tonybeal40/30min)
 
-</div>
+## What I Work On
 
----
+I help companies understand how work actually moves through the business, then build the systems around that behavior.
 
-## 👋 About Me
+That usually means:
 
-I'm a **Revenue Operations Manager** and **Sales Operations leader** with 15 years building pipeline systems across manufacturing, pharmaceutical, and B2B markets. I specialize in turning messy CRM data, broken follow-up workflows, and underpowered sales teams into clean, repeatable revenue engines — with or without AI.
+- CRM structure, cleanup, adoption, and reporting
+- Lead follow-up systems and lifecycle workflows
+- AI-assisted research, outreach, and internal automation
+- Revenue operations dashboards and pipeline visibility
+- Public knowledge, SEO, and website systems that support the business
 
-Currently **available for hire** — open to Revenue Operations, Sales Operations, Technical Account Management, Customer Success, and Program Management roles. Remote-first, St. Louis metro preferred.
+## Public GitHub Strategy
 
-→ **[See my full background at tonybeal.net](https://tonybeal.net)**
+This GitHub account is a curated public portfolio, not a complete archive of every project.
 
----
+Some work stays private because it may include client context, business strategy, unpublished workflows, private experiments, credentials, sales data, or internal operating systems. Public repositories are selected to show how I think, build, document, and ship without exposing sensitive material.
 
-## 📊 What I've Built
+## What You Will See Here
 
-| Metric | Result |
-|--------|--------|
-| 💰 Pipeline Generated | **$15M+** across manufacturing, pharma, food & beverage |
-| 🎯 Accounts Managed | **3,700+** target accounts, single-operator coverage |
-| 📅 Quota Attainment | **8 consecutive years** on quota |
-| 🤖 AI Prompts Engineered | **40,000+** for outreach personalization at scale |
-| 🏗️ Post-Sale Program Built | **$6M+** program from zero at ProForm Manufacturing |
-| 👥 LinkedIn Following | **11,000+** followers |
+- Public website and SEO work connected to [tonybeal.net](https://tonybeal.net)
+- Sanitized examples of automation, CRM, and growth-system thinking
+- Documentation, playbooks, and public-facing strategy work
+- Experiments that are safe to share
 
----
+## What Stays Private
 
-## 🛠️ Core Skills
+- Client-specific systems
+- Lead lists, prospecting data, and CRM exports
+- Internal business plans and private strategy rooms
+- API keys, credentials, tokens, and infrastructure details
+- Work that contains partner, customer, or personal information
 
-**Revenue Operations**
-`CRM Architecture` `Pipeline Management` `Forecast Modeling` `Revenue Intelligence` `Process Design`
+## Current Direction
 
-**Sales Operations**
-`Sales Process Optimization` `Territory Management` `Account Scoring` `Quota Planning` `Onboarding Systems`
+The main public brand is:
 
-**AI & Automation**
-`Prompt Engineering` `OpenAI API` `AI-Assisted Outreach` `Workflow Automation` `Sequence Design`
+**Tony Beal helps St. Louis and nationwide B2B companies clean up CRM behavior, improve follow-up, and build practical AI-assisted systems around how the company really works.**
 
-**Tools**
-`HubSpot` `Salesforce` `Apollo.io` `LinkedIn Sales Navigator` `Python` `SQL` `Google Analytics`
+The goal is not to look like every project is public. The goal is to make the public work clear enough that a company can understand the operating style, then start a private conversation for deeper examples.
 
----
+## Contact
 
-## 🏢 Enterprise Experience
-
-Clients include: **Pfizer · Eli Lilly · Duracell · BASF · Haleon · Catalent · Lonza · ProForm Manufacturing**
-
----
-
-## ✍️ Writing
-
-I write about simple systems for B2B sales, CRM cleanup, and practical AI at:  
-**[tonybeal.net/thinking.html](https://tonybeal.net/thinking.html)**
-
-Recent articles:
-- [AI Will Not Fix Your Plant's Labor Problem](https://tonybeal.net/thinking.html)
-- [If You Want Real AI Leverage, Stop Learning and Start Building](https://tonybeal.net/thinking.html)
-- [How to Build a CRM That Your Sales Team Actually Uses](https://tonybeal.net/thinking.html)
-- [Why Revenue Operations Is the Highest-ROI Hire for B2B Companies in 2026](https://tonybeal.net/thinking.html)
-- [The 5 AI Prompts I Use Every Week to Run B2B Outbound at Scale](https://tonybeal.net/thinking.html)
-
----
-
-## 📫 Let's Talk
-
-If you're hiring for Revenue Operations, Sales Operations, or AI-assisted workflow systems — I'd love to connect.
-
-- 🌐 **[tonybeal.net](https://tonybeal.net)** — full background + work samples
-- 📁 **[Case Studies](https://tonybeal.net/work.html)** — real projects, real numbers
-- 💼 **[Hire me](https://tonybeal.net/hire.html)** — role fit, availability, and how to engage
-- 📅 **[Book a 30-min call](https://calendly.com/tonybeal40/30min)**
-- 📧 **tonybeal40@gmail.com**
-
----
-
-<div align="center">
-  <sub>St. Louis, MO · Open to remote nationwide · Available immediately</sub>
-</div>
+- Website: [tonybeal.net](https://tonybeal.net)
+- LinkedIn: [linkedin.com/in/tony-beal40](https://www.linkedin.com/in/tony-beal40/)
+- Calendar: [calendly.com/tonybeal40/30min](https://calendly.com/tonybeal40/30min)
